@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/55312129"  />
-</div>
-
-###
-
 <h1 align="center">Hi, I'm Yuto Maeda</h1>
 
 ###
